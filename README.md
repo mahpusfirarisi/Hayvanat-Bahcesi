@@ -2,6 +2,7 @@ Hayvanat Bahçesi Kayıt Platformu
 --------------------------------
 ### Site Linki
 http://95.130.171.20/~st22360859323/
+
 Proje Açıklaması
 ----------------
 Hayvanat Bahçesi Kayıt Platformu, hayvanların kaydını tutmak ve yönetmek için geliştirilmiş bir web uygulamasıdır. Bu platform, hayvanat bahçesi personelinin hayvan eklemesine, listelemesine ve yönetmesine olanak tanır. Kullanıcı dostu arayüzü sayesinde hayvanların bilgilerini kolayca güncelleyebilir ve takip edebilirsiniz.
