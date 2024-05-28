@@ -30,7 +30,7 @@ Hayvanat Bahçesi Kayıt Platformu, hayvanların kaydını tutmak ve yönetmek i
    - SQL sorgusunu çalıştırarak tabloları oluşturun.
 
 5. **Veritabanı Bağlantı Ayarlarını Tanımlama:**
-   - `config.php` adında bir dosya oluşturun ve aşağıdaki içeriği ekleyin:
+   - `config.php` adında bir dosya oluşturun ve aşağıdaki içeriği güncelleyin..
      ```php
      <?php
      $host = 'localhost';
